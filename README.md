@@ -1,7 +1,7 @@
 ## Olá meu nome é igor Gabriel 👨‍💻
 
 -💻 Atualmente cursando informatica terceira modulo na FIEC 
-- Contate-me no email: igor32612@fiec.edu.br
+- Contate-me no email: igorgabprofissional@gmail.com
  
 <div align="center">
   <a href="https://github.com/igorGabrielM">
