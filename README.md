@@ -1,6 +1,6 @@
 ## Olá meu nome é igor Gabriel 👨‍💻
 
--💻 Atualmente cursando informatica terceira modulo na FIEC 
+-💻 Atualmente cursando informatica terceiro modulo na FIEC 
 - Contate-me no email: igorgabprofissional@gmail.com
  
 <div align="center">
