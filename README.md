@@ -28,6 +28,4 @@
   
   ![Snake animation](https://github.com/igorGabrielM/igorGabrielM/blob/output/github-contribution-grid-snake.svg)
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/igorGabrielM"><img src="https://activity-graph.herokuapp.com/graph?username=igorGabrielM&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
