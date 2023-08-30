@@ -1,6 +1,6 @@
 ## Olá meu nome é igor Gabriel 👨‍💻
 
--💻 Atualmente cursando primeiro semestre de Sistemas da informação na FIAP
+-💻 Atualmente cursando primeiro semestre de Sistemas da internet na FIAP
 - Contate-me no email: igorgabprofissional@gmail.com
  
 <div align="center">
