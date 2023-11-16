@@ -25,7 +25,3 @@
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
 </div>
-  
-  ![Snake animation](https://github.com/igorGabrielM/igorGabrielM/blob/output/github-contribution-grid-snake.svg)
-
-<a href="http://www.github.com/igorGabrielM"><img src="https://activity-graph.herokuapp.com/graph?username=igorGabrielM&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
