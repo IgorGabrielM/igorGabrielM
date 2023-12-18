@@ -7,6 +7,7 @@
   <a href="https://github.com/igorGabrielM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorGabrielM&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorGabrielM&layout=compact&langs_count=7&theme=midnight-purple"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorGabrielM&" alt="igorGabrielM" /></p>
 </div>
   
  <div style="display: inline_block"><br>
